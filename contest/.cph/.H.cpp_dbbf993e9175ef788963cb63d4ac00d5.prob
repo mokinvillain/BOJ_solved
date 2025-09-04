@@ -1,0 +1,1 @@
+{"name":"Local: H","url":"/root/Problem_Solving/contest/H.cpp","tests":[{"id":1756535841240,"input":"4\n3 10\n5 6\n3 3\n1766147374 1766147446","output":"0\n1\n1\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/root/Problem_Solving/contest/H.cpp","group":"local","local":true}
