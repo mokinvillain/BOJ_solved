@@ -1,0 +1,1 @@
+{"name":"Local: boj_29986","url":"/root/Problem_Solving/boj_29986.cpp","tests":[{"id":1757071063625,"input":"6 120\n200 90 100 123 120 169","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/root/Problem_Solving/boj_29986.cpp","group":"local","local":true}
